@@ -1,2 +1,2 @@
-export * from '@/hooks/useDatabaseSetup';
-export * from '@/hooks/useLiveQuery';
+export * from './hooks/useDatabaseSetup';
+export * from './hooks/useLiveQuery';
